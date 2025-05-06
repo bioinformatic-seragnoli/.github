@@ -1,7 +1,7 @@
 <!-- .github/profile/README.md -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000000?s=200" width="120" alt="Bioinformatics Seragnoli logo">
+  <img src="https://avatars.githubusercontent.com/u/91616680?s=400&u=d0064e5f821757d4ed36ce005e625e84410a290e&v=4" width="200" alt="Bioinformatics Seragnoli logo">
 </p>
 
 # Bioinformatics Seragnoli
